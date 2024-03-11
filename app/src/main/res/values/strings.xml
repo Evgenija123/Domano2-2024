@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+
+
+
+        <string name="search_hint">Enter word to search</string>
+
+        <string name="search_button">Search</string>
+    <string name="clear_all_button">Clear All</string>
+
+
+</resources>
